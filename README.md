@@ -1,40 +1,45 @@
-# SCT_DA_Task3
-# Workforce Attrition Intelligence Dashboard
+# SkillCraft Technology - Task 03
 
-## Overview
+## Employee Attrition Analysis Dashboard
 
-This project presents an interactive HR analytics dashboard developed in Power BI to analyze employee attrition patterns and identify the key factors influencing workforce turnover. The dashboard enables users to explore attrition trends across departments, age groups, job roles, income levels, and employee satisfaction metrics.
+### Project Overview
 
-## Objectives
+This project focuses on analyzing employee attrition using Power BI. The dashboard provides interactive visualizations to identify the key factors influencing employee turnover and workforce retention.
 
-* Analyze employee attrition trends.
-* Identify factors contributing to employee turnover.
-* Evaluate the impact of overtime, job satisfaction, work-life balance, and compensation on attrition.
-* Provide data-driven insights to support employee retention strategies.
+### Objective
 
-## Key Features
+To build an interactive dashboard that answers the question:
 
-* Interactive slicers for Department, Age Group, Gender, Job Role, and Overtime.
-* Attrition analysis by department and demographic groups.
-* Employee satisfaction and work-life balance analysis.
-* Income and career growth impact assessment.
-* Executive summary with key business insights.
+**Why are employees leaving the organization?**
 
-## Tools & Technologies
+### Tools Used
 
 * Power BI
 * DAX
-* Data Visualization
-* HR Analytics
+* Microsoft Excel / CSV Dataset
 
-## Key Insights
+### Dashboard Features
+
+* Attrition Rate Analysis
+* Department-wise Attrition
+* Age Group Analysis
+* Job Satisfaction Analysis
+* Work-Life Balance Analysis
+* Overtime Impact on Attrition
+* Salary and Income Analysis
+* Interactive Slicers for Data Exploration
+
+### Key Findings
 
 * Employees working overtime show higher attrition rates.
-* Low job satisfaction is associated with increased turnover.
+* Low job satisfaction contributes to increased employee turnover.
 * Lower-income employees are more likely to leave the organization.
-* Poor work-life balance negatively impacts employee retention.
-* Limited promotion opportunities contribute to employee attrition.
+* Poor work-life balance negatively affects employee retention.
+* Limited promotion opportunities influence attrition.
 
-## Outcome
+### Outcome
 
-The dashboard helps HR professionals identify workforce challenges, understand employee behavior, and make informed decisions to improve employee retention and organizational stability.
+The dashboard helps identify the major drivers of employee attrition and provides actionable insights to support employee retention strategies.
+
+### Dashboard Preview
+![HR Dashboard](HR_Dashboard.png)
